@@ -70,10 +70,11 @@ Full narrative analysis on Medium: **[link]**
 
 ```
 ├── Supply_Chain_Analytics_Dashboard.pbix   # the report file
-├── screenshots/                            # dashboard page images
-├── dax/measures.md                         # all DAX measures, documented
-├── docs/data-model.png                     # star schema diagram
-└── data/README.md                          # link to source dataset
+├── Screenshots/                            # dashboard page images
+├── PowerBI/01-ETL.md                       # key Power Query transoformations
+├── PowerBI/02-dax-measures.md              # all DAX measures
+├── Docs/Data-Model_Star-Schema.png         # star schema diagram
+└── Data/data.md                            # link to source dataset
 ```
 
 ---
