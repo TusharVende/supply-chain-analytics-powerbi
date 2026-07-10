@@ -48,7 +48,8 @@ Full narrative analysis on Medium: **[link]**
 - **Tool:** Power BI Desktop
 - **Data model:** Star schema with a dedicated date dimension for time intelligence
 - **Measures:** Written in DAX — see [`dax/measures.md`](dax/measures.md)
-- **Data model diagram:** [`Data Model`](Screenshots/Data-Model_Star-Schema.png)
+- **Data model diagram:**
+-![Data Model](Docs/Data-Model_Star-Schema.png)
 
 ### Reproduce this
 1. Download the [DataCo dataset from Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
