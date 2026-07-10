@@ -33,11 +33,11 @@ Customer segment breakdown, top products by profit, sales by category, and top c
 |---|---|---|
 | Total Sales | $36M | Healthy, stable revenue across 3 years |
 | Profit Margin | 12.1% | Solid margin |
-| **On-Time Delivery** | **42.7%** | **Critical — fewer than half of orders arrive on time** |
+| **On-Time Delivery** | **42.7%** | **Poor Performance - fewer than half of orders arrive on time** |
 | Late Delivery Risk | 54.8% | Lateness is structural, not random |
 | Avg Order Value | ~$573 | Consistent across all customer segments |
 
-The headline insight: the network looks financially healthy but has a systemic delivery problem, with premium shipping modes (First Class, Same Day) being structurally the *most* late. Profit is also heavily concentrated in a few categories (led by Fishing), which warrants a segmentation-driven planning strategy.
+Key insight: the network looks financially healthy but has a systemic delivery problem, with premium shipping modes (First Class, Same Day) being structurally the *most* late. Profit is also heavily concentrated in a few categories (led by Fishing), which warrants a segmentation-driven planning strategy.
 
 Full narrative analysis on Medium: **[link]**
 
