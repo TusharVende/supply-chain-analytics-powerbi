@@ -61,7 +61,7 @@ Full narrative analysis on Medium: **[link]**
 
 ### Reproduce this
 1. Download the [DataCo dataset from Kaggle](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis)
-2. Open `Supply_Chain_Analytics_Dashboard.pbix` in Power BI Desktop
+2. Open [`Supply Chain Analytics Dashboard.pbix`](Supply Chain Analytics Dashboard.pbix) in Power BI Desktop
 3. Update the data source path to your local copy of the dataset
 
 ---
