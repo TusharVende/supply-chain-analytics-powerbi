@@ -54,7 +54,8 @@ Full narrative analysis on Medium: **[link]**
 
 - **Tool:** Power BI Desktop
 - **Data model:** Star schema with a dedicated date dimension for time intelligence
-- **Measures:** Written in DAX — see [`dax/measures.md`](dax/measures.md)
+- **Extract Transform Load:** Performed in Power Query — see [`PowerBI/01-ETL.md`](PowerBI/01-ETL.md)
+- **Measures:** Written in DAX — see [`PowerBI/02-dax-measures.md`](PowerBI/02-dax-measures.md)
 - **Data model diagram:**
 ![Data Model](Docs/Data-Model_Star-Schema.png)
 
