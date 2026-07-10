@@ -11,7 +11,7 @@ An end-to-end supply chain analytics report built in Power BI Desktop on the [Da
 The report has three pages, each answering a different business question.
 
 ### 1. Executive Summary — *How is the business performing overall?*
-![Executive Summary](screenshots/01-executive-summary.png)
+![Executive Summary](Screenshots/Executive Summary - Sales.png)
 
 Top-line KPIs (Total Sales, Total Profit, Profit Margin, On-Time Delivery %), sales trend over time, sales by market, and profit by category.
 
