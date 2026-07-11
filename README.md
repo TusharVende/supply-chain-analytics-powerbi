@@ -91,4 +91,4 @@ Built with the DataCo Smart Supply Chain dataset. I studied these public analyse
 
 ## About me
 
-Supply chain professional focused on planning, analytics, and strategy. I am a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/TusharVende-1232/C54000C568B70831?sharingId=A6016A7C9FEDE5C4). Connect on [LinkedIn](https://www.linkedin.com/in/tdvende/).
+Supply chain professional focused on planning, analytics, and strategy. I am a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/TusharVende-1232/C54000C568B70831?sharingId=A6016A7C9FEDE5C4). Connect with me on [LinkedIn](https://www.linkedin.com/in/tdvende/).
